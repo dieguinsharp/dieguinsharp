@@ -7,7 +7,6 @@
 <br>
 
 <div>
-  <a href="https://github.com/dieguinsharp
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucasCNS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true%22/%3E
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCNS&layout=compact&langs_count=16&theme=algolia%22/%3E
 </div>
